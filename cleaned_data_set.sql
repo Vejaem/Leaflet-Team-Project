@@ -1,0 +1,27 @@
+SELECT
+YEAR AS Year,
+TEAM as Team,
+CONF as Conference,
+G as Games,
+W as Wins,
+ADJOE as Offensive_Efficeny,
+ADJDE as Defensive_Efficeny,
+BARTHAG as "Power Rating",
+EFG_O as "Effective FG Percentage Shot",
+EFG_D as "Effective FG Percentage Allowed",
+TOR as "Turnover Rate",
+TORD as "Steal Rate",
+ORB as "Offensive Rebound Rate",
+DRB as "Offensive Rebound Rate Allowed",
+FTR as "Freethrow Rate",
+FTRD as "Freethrow Rate allowed",
+TWO_P_O as "2 Point Shooting Percentage",
+TWO_P_D as"2 Point Shooting Percentage Allowed",
+THREE_P_O as "2 Point Shooting Percentage",
+THREE_P_D as "2 Point Shooting Percentage Allowed",
+ADJ_T as "Posessions Per Game",
+WAB as "Wins above Bubble",
+POSTSEASON  as "Round Eliminated",
+SEED as "Seed"
+FROM NCAA
+ORDER BY TEAM, YEAR
