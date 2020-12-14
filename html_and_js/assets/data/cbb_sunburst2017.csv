@@ -1,0 +1,453 @@
+ids,labels,parents
+NCAA,NCAA,
+WCC-NCAA,WCC,NCAA
+ACC-NCAA,ACC,NCAA
+B12-NCAA,B12,NCAA
+BE-NCAA,BE,NCAA
+SEC-NCAA,SEC,NCAA
+P12-NCAA,P12,NCAA
+A10-NCAA,A10,NCAA
+AE-NCAA,AE,NCAA
+Amer-NCAA,Amer,NCAA
+ASun-NCAA,ASun,NCAA
+B10-NCAA,B10,NCAA
+BSky-NCAA,BSky,NCAA
+BSth-NCAA,BSth,NCAA
+BW-NCAA,BW,NCAA
+CAA-NCAA,CAA,NCAA
+CUSA-NCAA,CUSA,NCAA
+Horz-NCAA,Horz,NCAA
+Ivy-NCAA,Ivy,NCAA
+MAAC-NCAA,MAAC,NCAA
+MAC-NCAA,MAC,NCAA
+MEAC-NCAA,MEAC,NCAA
+MVC-NCAA,MVC,NCAA
+MWC-NCAA,MWC,NCAA
+NEC-NCAA,NEC,NCAA
+OVC-NCAA,OVC,NCAA
+Pat-NCAA,Pat,NCAA
+SB-NCAA,SB,NCAA
+SC-NCAA,SC,NCAA
+Slnd-NCAA,Slnd,NCAA
+Sum-NCAA,Sum,NCAA
+SWAC-NCAA,SWAC,NCAA
+WAC-NCAA,WAC,NCAA
+WCC-NCAA-Gonzaga,Gonzaga,WCC-NCAA
+ACC-NCAA-North Carolina,North Carolina,ACC-NCAA
+B12-NCAA-Kansas,Kansas,B12-NCAA
+BE-NCAA-Xavier,Xavier,BE-NCAA
+SEC-NCAA-Florida,Florida,SEC-NCAA
+SEC-NCAA-Kentucky,Kentucky,SEC-NCAA
+P12-NCAA-Oregon,Oregon,P12-NCAA
+SEC-NCAA-South Carolina,South Carolina,SEC-NCAA
+A10-NCAA-Davidson,Davidson,A10-NCAA
+A10-NCAA-Duquesne,Duquesne,A10-NCAA
+A10-NCAA-Fordham,Fordham,A10-NCAA
+A10-NCAA-George Mason,George Mason,A10-NCAA
+A10-NCAA-George Washington,George Washington,A10-NCAA
+A10-NCAA-La Salle,La Salle,A10-NCAA
+A10-NCAA-Massachusetts,Massachusetts,A10-NCAA
+A10-NCAA-Richmond,Richmond,A10-NCAA
+A10-NCAA-Saint Joseph's,Saint Joseph's,A10-NCAA
+A10-NCAA-Saint Louis,Saint Louis,A10-NCAA
+A10-NCAA-St. Bonaventure,St. Bonaventure,A10-NCAA
+ACC-NCAA-Boston College,Boston College,ACC-NCAA
+ACC-NCAA-Clemson,Clemson,ACC-NCAA
+ACC-NCAA-Georgia Tech,Georgia Tech,ACC-NCAA
+ACC-NCAA-North Carolina St.,North Carolina St.,ACC-NCAA
+ACC-NCAA-Pittsburgh,Pittsburgh,ACC-NCAA
+ACC-NCAA-Syracuse,Syracuse,ACC-NCAA
+AE-NCAA-Albany,Albany,AE-NCAA
+AE-NCAA-Binghamton,Binghamton,AE-NCAA
+AE-NCAA-Hartford,Hartford,AE-NCAA
+AE-NCAA-Maine,Maine,AE-NCAA
+AE-NCAA-New Hampshire,New Hampshire,AE-NCAA
+AE-NCAA-Stony Brook,Stony Brook,AE-NCAA
+AE-NCAA-UMass Lowell,UMass Lowell,AE-NCAA
+AE-NCAA-UMBC,UMBC,AE-NCAA
+Amer-NCAA-Connecticut,Connecticut,Amer-NCAA
+Amer-NCAA-East Carolina,East Carolina,Amer-NCAA
+Amer-NCAA-Houston,Houston,Amer-NCAA
+Amer-NCAA-Memphis,Memphis,Amer-NCAA
+Amer-NCAA-South Florida,South Florida,Amer-NCAA
+Amer-NCAA-Temple,Temple,Amer-NCAA
+Amer-NCAA-Tulane,Tulane,Amer-NCAA
+Amer-NCAA-Tulsa,Tulsa,Amer-NCAA
+Amer-NCAA-UCF,UCF,Amer-NCAA
+ASun-NCAA-Jacksonville,Jacksonville,ASun-NCAA
+ASun-NCAA-Kennesaw St.,Kennesaw St.,ASun-NCAA
+ASun-NCAA-Lipscomb,Lipscomb,ASun-NCAA
+ASun-NCAA-NJIT,NJIT,ASun-NCAA
+ASun-NCAA-North Florida,North Florida,ASun-NCAA
+ASun-NCAA-Stetson,Stetson,ASun-NCAA
+ASun-NCAA-USC Upstate,USC Upstate,ASun-NCAA
+B10-NCAA-Illinois,Illinois,B10-NCAA
+B10-NCAA-Indiana,Indiana,B10-NCAA
+B10-NCAA-Iowa,Iowa,B10-NCAA
+B10-NCAA-Nebraska,Nebraska,B10-NCAA
+B10-NCAA-Ohio St.,Ohio St.,B10-NCAA
+B10-NCAA-Penn St.,Penn St.,B10-NCAA
+B10-NCAA-Rutgers,Rutgers,B10-NCAA
+B12-NCAA-Oklahoma,Oklahoma,B12-NCAA
+B12-NCAA-TCU,TCU,B12-NCAA
+B12-NCAA-Texas,Texas,B12-NCAA
+B12-NCAA-Texas Tech,Texas Tech,B12-NCAA
+BE-NCAA-DePaul,DePaul,BE-NCAA
+BE-NCAA-Georgetown,Georgetown,BE-NCAA
+BE-NCAA-St. John's,St. John's,BE-NCAA
+BSky-NCAA-Eastern Washington,Eastern Washington,BSky-NCAA
+BSky-NCAA-Idaho,Idaho,BSky-NCAA
+BSky-NCAA-Idaho St.,Idaho St.,BSky-NCAA
+BSky-NCAA-Montana,Montana,BSky-NCAA
+BSky-NCAA-Montana St.,Montana St.,BSky-NCAA
+BSky-NCAA-Northern Arizona,Northern Arizona,BSky-NCAA
+BSky-NCAA-Northern Colorado,Northern Colorado,BSky-NCAA
+BSky-NCAA-Portland St.,Portland St.,BSky-NCAA
+BSky-NCAA-Sacramento St.,Sacramento St.,BSky-NCAA
+BSky-NCAA-Southern Utah,Southern Utah,BSky-NCAA
+BSky-NCAA-Weber St.,Weber St.,BSky-NCAA
+BSth-NCAA-Campbell,Campbell,BSth-NCAA
+BSth-NCAA-Charleston Southern,Charleston Southern,BSth-NCAA
+BSth-NCAA-Gardner Webb,Gardner Webb,BSth-NCAA
+BSth-NCAA-High Point,High Point,BSth-NCAA
+BSth-NCAA-Liberty,Liberty,BSth-NCAA
+BSth-NCAA-Longwood,Longwood,BSth-NCAA
+BSth-NCAA-Presbyterian,Presbyterian,BSth-NCAA
+BSth-NCAA-Radford,Radford,BSth-NCAA
+BSth-NCAA-UNC Asheville,UNC Asheville,BSth-NCAA
+BW-NCAA-Cal Poly,Cal Poly,BW-NCAA
+BW-NCAA-Cal St. Fullerton,Cal St. Fullerton,BW-NCAA
+BW-NCAA-Cal St. Northridge,Cal St. Northridge,BW-NCAA
+BW-NCAA-Hawaii,Hawaii,BW-NCAA
+BW-NCAA-Long Beach St.,Long Beach St.,BW-NCAA
+BW-NCAA-UC Irvine,UC Irvine,BW-NCAA
+BW-NCAA-UC Riverside,UC Riverside,BW-NCAA
+BW-NCAA-UC Santa Barbara,UC Santa Barbara,BW-NCAA
+CAA-NCAA-College of Charleston,College of Charleston,CAA-NCAA
+CAA-NCAA-Delaware,Delaware,CAA-NCAA
+CAA-NCAA-Drexel,Drexel,CAA-NCAA
+CAA-NCAA-Elon,Elon,CAA-NCAA
+CAA-NCAA-Hofstra,Hofstra,CAA-NCAA
+CAA-NCAA-James Madison,James Madison,CAA-NCAA
+CAA-NCAA-Northeastern,Northeastern,CAA-NCAA
+CAA-NCAA-Towson,Towson,CAA-NCAA
+CAA-NCAA-William & Mary,William & Mary,CAA-NCAA
+CUSA-NCAA-Charlotte,Charlotte,CUSA-NCAA
+CUSA-NCAA-FIU,FIU,CUSA-NCAA
+CUSA-NCAA-Florida Atlantic,Florida Atlantic,CUSA-NCAA
+CUSA-NCAA-Louisiana Tech,Louisiana Tech,CUSA-NCAA
+CUSA-NCAA-Marshall,Marshall,CUSA-NCAA
+CUSA-NCAA-North Texas,North Texas,CUSA-NCAA
+CUSA-NCAA-Old Dominion,Old Dominion,CUSA-NCAA
+CUSA-NCAA-Rice,Rice,CUSA-NCAA
+CUSA-NCAA-Southern Miss,Southern Miss,CUSA-NCAA
+CUSA-NCAA-UAB,UAB,CUSA-NCAA
+CUSA-NCAA-UTEP,UTEP,CUSA-NCAA
+CUSA-NCAA-UTSA,UTSA,CUSA-NCAA
+CUSA-NCAA-Western Kentucky,Western Kentucky,CUSA-NCAA
+Horz-NCAA-Cleveland St.,Cleveland St.,Horz-NCAA
+Horz-NCAA-Detroit,Detroit,Horz-NCAA
+Horz-NCAA-Green Bay,Green Bay,Horz-NCAA
+Horz-NCAA-Illinois Chicago,Illinois Chicago,Horz-NCAA
+Horz-NCAA-Milwaukee,Milwaukee,Horz-NCAA
+Horz-NCAA-Oakland,Oakland,Horz-NCAA
+Horz-NCAA-Valparaiso,Valparaiso,Horz-NCAA
+Horz-NCAA-Wright St.,Wright St.,Horz-NCAA
+Horz-NCAA-Youngstown St.,Youngstown St.,Horz-NCAA
+Ivy-NCAA-Brown,Brown,Ivy-NCAA
+Ivy-NCAA-Columbia,Columbia,Ivy-NCAA
+Ivy-NCAA-Cornell,Cornell,Ivy-NCAA
+Ivy-NCAA-Dartmouth,Dartmouth,Ivy-NCAA
+Ivy-NCAA-Harvard,Harvard,Ivy-NCAA
+Ivy-NCAA-Penn,Penn,Ivy-NCAA
+Ivy-NCAA-Yale,Yale,Ivy-NCAA
+MAAC-NCAA-Canisius,Canisius,MAAC-NCAA
+MAAC-NCAA-Fairfield,Fairfield,MAAC-NCAA
+MAAC-NCAA-Manhattan,Manhattan,MAAC-NCAA
+MAAC-NCAA-Marist,Marist,MAAC-NCAA
+MAAC-NCAA-Monmouth,Monmouth,MAAC-NCAA
+MAAC-NCAA-Niagara,Niagara,MAAC-NCAA
+MAAC-NCAA-Quinnipiac,Quinnipiac,MAAC-NCAA
+MAAC-NCAA-Rider,Rider,MAAC-NCAA
+MAAC-NCAA-Saint Peter's,Saint Peter's,MAAC-NCAA
+MAAC-NCAA-Siena,Siena,MAAC-NCAA
+MAC-NCAA-Akron,Akron,MAC-NCAA
+MAC-NCAA-Ball St.,Ball St.,MAC-NCAA
+MAC-NCAA-Bowling Green,Bowling Green,MAC-NCAA
+MAC-NCAA-Buffalo,Buffalo,MAC-NCAA
+MAC-NCAA-Central Michigan,Central Michigan,MAC-NCAA
+MAC-NCAA-Eastern Michigan,Eastern Michigan,MAC-NCAA
+MAC-NCAA-Miami OH,Miami OH,MAC-NCAA
+MAC-NCAA-Northern Illinois,Northern Illinois,MAC-NCAA
+MAC-NCAA-Ohio,Ohio,MAC-NCAA
+MAC-NCAA-Toledo,Toledo,MAC-NCAA
+MAC-NCAA-Western Michigan,Western Michigan,MAC-NCAA
+MEAC-NCAA-Bethune Cookman,Bethune Cookman,MEAC-NCAA
+MEAC-NCAA-Coppin St.,Coppin St.,MEAC-NCAA
+MEAC-NCAA-Delaware St.,Delaware St.,MEAC-NCAA
+MEAC-NCAA-Florida A&M,Florida A&M,MEAC-NCAA
+MEAC-NCAA-Hampton,Hampton,MEAC-NCAA
+MEAC-NCAA-Howard,Howard,MEAC-NCAA
+MEAC-NCAA-Maryland Eastern Shore,Maryland Eastern Shore,MEAC-NCAA
+MEAC-NCAA-Morgan St.,Morgan St.,MEAC-NCAA
+MEAC-NCAA-Norfolk St.,Norfolk St.,MEAC-NCAA
+MEAC-NCAA-North Carolina A&T,North Carolina A&T,MEAC-NCAA
+MEAC-NCAA-Savannah St.,Savannah St.,MEAC-NCAA
+MEAC-NCAA-South Carolina St.,South Carolina St.,MEAC-NCAA
+MVC-NCAA-Bradley,Bradley,MVC-NCAA
+MVC-NCAA-Drake,Drake,MVC-NCAA
+MVC-NCAA-Evansville,Evansville,MVC-NCAA
+MVC-NCAA-Illinois St.,Illinois St.,MVC-NCAA
+MVC-NCAA-Indiana St.,Indiana St.,MVC-NCAA
+MVC-NCAA-Loyola Chicago,Loyola Chicago,MVC-NCAA
+MVC-NCAA-Missouri St.,Missouri St.,MVC-NCAA
+MVC-NCAA-Northern Iowa,Northern Iowa,MVC-NCAA
+MVC-NCAA-Southern Illinois,Southern Illinois,MVC-NCAA
+MWC-NCAA-Air Force,Air Force,MWC-NCAA
+MWC-NCAA-Boise St.,Boise St.,MWC-NCAA
+MWC-NCAA-Colorado St.,Colorado St.,MWC-NCAA
+MWC-NCAA-Fresno St.,Fresno St.,MWC-NCAA
+MWC-NCAA-New Mexico,New Mexico,MWC-NCAA
+MWC-NCAA-San Diego St.,San Diego St.,MWC-NCAA
+MWC-NCAA-San Jose St.,San Jose St.,MWC-NCAA
+MWC-NCAA-UNLV,UNLV,MWC-NCAA
+MWC-NCAA-Utah St.,Utah St.,MWC-NCAA
+MWC-NCAA-Wyoming,Wyoming,MWC-NCAA
+NEC-NCAA-Bryant,Bryant,NEC-NCAA
+NEC-NCAA-Central Connecticut,Central Connecticut,NEC-NCAA
+NEC-NCAA-Fairleigh Dickinson,Fairleigh Dickinson,NEC-NCAA
+NEC-NCAA-LIU Brooklyn,LIU Brooklyn,NEC-NCAA
+NEC-NCAA-Robert Morris,Robert Morris,NEC-NCAA
+NEC-NCAA-Sacred Heart,Sacred Heart,NEC-NCAA
+NEC-NCAA-St. Francis NY,St. Francis NY,NEC-NCAA
+NEC-NCAA-St. Francis PA,St. Francis PA,NEC-NCAA
+NEC-NCAA-Wagner,Wagner,NEC-NCAA
+OVC-NCAA-Austin Peay,Austin Peay,OVC-NCAA
+OVC-NCAA-Belmont,Belmont,OVC-NCAA
+OVC-NCAA-Eastern Illinois,Eastern Illinois,OVC-NCAA
+OVC-NCAA-Eastern Kentucky,Eastern Kentucky,OVC-NCAA
+OVC-NCAA-Morehead St.,Morehead St.,OVC-NCAA
+OVC-NCAA-Murray St.,Murray St.,OVC-NCAA
+OVC-NCAA-SIU Edwardsville,SIU Edwardsville,OVC-NCAA
+OVC-NCAA-Southeast Missouri St.,Southeast Missouri St.,OVC-NCAA
+OVC-NCAA-Tennessee Martin,Tennessee Martin,OVC-NCAA
+OVC-NCAA-Tennessee St.,Tennessee St.,OVC-NCAA
+OVC-NCAA-Tennessee Tech,Tennessee Tech,OVC-NCAA
+P12-NCAA-Arizona St.,Arizona St.,P12-NCAA
+P12-NCAA-California,California,P12-NCAA
+P12-NCAA-Colorado,Colorado,P12-NCAA
+P12-NCAA-Oregon St.,Oregon St.,P12-NCAA
+P12-NCAA-Stanford,Stanford,P12-NCAA
+P12-NCAA-Utah,Utah,P12-NCAA
+P12-NCAA-Washington,Washington,P12-NCAA
+P12-NCAA-Washington St.,Washington St.,P12-NCAA
+Pat-NCAA-American,American,Pat-NCAA
+Pat-NCAA-Army,Army,Pat-NCAA
+Pat-NCAA-Boston University,Boston University,Pat-NCAA
+Pat-NCAA-Colgate,Colgate,Pat-NCAA
+Pat-NCAA-Holy Cross,Holy Cross,Pat-NCAA
+Pat-NCAA-Lafayette,Lafayette,Pat-NCAA
+Pat-NCAA-Lehigh,Lehigh,Pat-NCAA
+Pat-NCAA-Loyola MD,Loyola MD,Pat-NCAA
+Pat-NCAA-Navy,Navy,Pat-NCAA
+SB-NCAA-Appalachian St.,Appalachian St.,SB-NCAA
+SB-NCAA-Arkansas St.,Arkansas St.,SB-NCAA
+SB-NCAA-Coastal Carolina,Coastal Carolina,SB-NCAA
+SB-NCAA-Georgia Southern,Georgia Southern,SB-NCAA
+SB-NCAA-Georgia St.,Georgia St.,SB-NCAA
+SB-NCAA-Little Rock,Little Rock,SB-NCAA
+SB-NCAA-Louisiana Lafayette,Louisiana Lafayette,SB-NCAA
+SB-NCAA-Louisiana Monroe,Louisiana Monroe,SB-NCAA
+SB-NCAA-South Alabama,South Alabama,SB-NCAA
+SB-NCAA-Texas St.,Texas St.,SB-NCAA
+SB-NCAA-UT Arlington,UT Arlington,SB-NCAA
+SC-NCAA-Chattanooga,Chattanooga,SC-NCAA
+SC-NCAA-Furman,Furman,SC-NCAA
+SC-NCAA-Mercer,Mercer,SC-NCAA
+SC-NCAA-Samford,Samford,SC-NCAA
+SC-NCAA-The Citadel,The Citadel,SC-NCAA
+SC-NCAA-UNC Greensboro,UNC Greensboro,SC-NCAA
+SC-NCAA-VMI,VMI,SC-NCAA
+SC-NCAA-Western Carolina,Western Carolina,SC-NCAA
+SC-NCAA-Wofford,Wofford,SC-NCAA
+SEC-NCAA-Alabama,Alabama,SEC-NCAA
+SEC-NCAA-Auburn,Auburn,SEC-NCAA
+SEC-NCAA-Georgia,Georgia,SEC-NCAA
+SEC-NCAA-LSU,LSU,SEC-NCAA
+SEC-NCAA-Mississippi,Mississippi,SEC-NCAA
+SEC-NCAA-Mississippi St.,Mississippi St.,SEC-NCAA
+SEC-NCAA-Missouri,Missouri,SEC-NCAA
+SEC-NCAA-Tennessee,Tennessee,SEC-NCAA
+SEC-NCAA-Texas A&M,Texas A&M,SEC-NCAA
+Slnd-NCAA-Abilene Christian,Abilene Christian,Slnd-NCAA
+Slnd-NCAA-Central Arkansas,Central Arkansas,Slnd-NCAA
+Slnd-NCAA-Houston Baptist,Houston Baptist,Slnd-NCAA
+Slnd-NCAA-Incarnate Word,Incarnate Word,Slnd-NCAA
+Slnd-NCAA-Lamar,Lamar,Slnd-NCAA
+Slnd-NCAA-McNeese St.,McNeese St.,Slnd-NCAA
+Slnd-NCAA-Nicholls St.,Nicholls St.,Slnd-NCAA
+Slnd-NCAA-Northwestern St.,Northwestern St.,Slnd-NCAA
+Slnd-NCAA-Sam Houston St.,Sam Houston St.,Slnd-NCAA
+Slnd-NCAA-Southeastern Louisiana,Southeastern Louisiana,Slnd-NCAA
+Slnd-NCAA-Stephen F. Austin,Stephen F. Austin,Slnd-NCAA
+Slnd-NCAA-Texas A&M Corpus Chris,Texas A&M Corpus Chris,Slnd-NCAA
+Sum-NCAA-Denver,Denver,Sum-NCAA
+Sum-NCAA-Fort Wayne,Fort Wayne,Sum-NCAA
+Sum-NCAA-IUPUI,IUPUI,Sum-NCAA
+Sum-NCAA-Nebraska Omaha,Nebraska Omaha,Sum-NCAA
+Sum-NCAA-North Dakota St.,North Dakota St.,Sum-NCAA
+Sum-NCAA-Oral Roberts,Oral Roberts,Sum-NCAA
+Sum-NCAA-South Dakota,South Dakota,Sum-NCAA
+Sum-NCAA-Western Illinois,Western Illinois,Sum-NCAA
+SWAC-NCAA-Alabama A&M,Alabama A&M,SWAC-NCAA
+SWAC-NCAA-Alabama St.,Alabama St.,SWAC-NCAA
+SWAC-NCAA-Alcorn St.,Alcorn St.,SWAC-NCAA
+SWAC-NCAA-Arkansas Pine Bluff,Arkansas Pine Bluff,SWAC-NCAA
+SWAC-NCAA-Grambling St.,Grambling St.,SWAC-NCAA
+SWAC-NCAA-Jackson St.,Jackson St.,SWAC-NCAA
+SWAC-NCAA-Mississippi Valley St.,Mississippi Valley St.,SWAC-NCAA
+SWAC-NCAA-Prairie View A&M,Prairie View A&M,SWAC-NCAA
+SWAC-NCAA-Southern,Southern,SWAC-NCAA
+WAC-NCAA-Cal St. Bakersfield,Cal St. Bakersfield,WAC-NCAA
+WAC-NCAA-Chicago St.,Chicago St.,WAC-NCAA
+WAC-NCAA-Grand Canyon,Grand Canyon,WAC-NCAA
+WAC-NCAA-Seattle,Seattle,WAC-NCAA
+WAC-NCAA-UMKC,UMKC,WAC-NCAA
+WAC-NCAA-UT Rio Grande Valley,UT Rio Grande Valley,WAC-NCAA
+WAC-NCAA-Utah Valley,Utah Valley,WAC-NCAA
+WCC-NCAA-BYU,BYU,WCC-NCAA
+WCC-NCAA-Loyola Marymount,Loyola Marymount,WCC-NCAA
+WCC-NCAA-Pacific,Pacific,WCC-NCAA
+WCC-NCAA-Pepperdine,Pepperdine,WCC-NCAA
+WCC-NCAA-Portland,Portland,WCC-NCAA
+WCC-NCAA-San Diego,San Diego,WCC-NCAA
+WCC-NCAA-San Francisco,San Francisco,WCC-NCAA
+WCC-NCAA-Santa Clara,Santa Clara,WCC-NCAA
+A10-NCAA-Rhode Island,Rhode Island,A10-NCAA
+ACC-NCAA-Duke,Duke,ACC-NCAA
+ACC-NCAA-Florida St.,Florida St.,ACC-NCAA
+ACC-NCAA-Louisville,Louisville,ACC-NCAA
+ACC-NCAA-Notre Dame,Notre Dame,ACC-NCAA
+ACC-NCAA-Virginia,Virginia,ACC-NCAA
+Amer-NCAA-Cincinnati,Cincinnati,Amer-NCAA
+B10-NCAA-Michigan St.,Michigan St.,B10-NCAA
+B10-NCAA-Northwestern,Northwestern,B10-NCAA
+B12-NCAA-Iowa St.,Iowa St.,B12-NCAA
+BE-NCAA-Villanova,Villanova,BE-NCAA
+CUSA-NCAA-Middle Tennessee,Middle Tennessee,CUSA-NCAA
+MVC-NCAA-Wichita St.,Wichita St.,MVC-NCAA
+P12-NCAA-USC,USC,P12-NCAA
+SEC-NCAA-Arkansas,Arkansas,SEC-NCAA
+WCC-NCAA-Saint Mary's,Saint Mary's,WCC-NCAA
+A10-NCAA-Dayton,Dayton,A10-NCAA
+A10-NCAA-VCU,VCU,A10-NCAA
+ACC-NCAA-Miami FL,Miami FL,ACC-NCAA
+ACC-NCAA-Virginia Tech,Virginia Tech,ACC-NCAA
+AE-NCAA-Vermont,Vermont,AE-NCAA
+Amer-NCAA-SMU,SMU,Amer-NCAA
+ASun-NCAA-Florida Gulf Coast,Florida Gulf Coast,ASun-NCAA
+B10-NCAA-Maryland,Maryland,B10-NCAA
+B10-NCAA-Minnesota,Minnesota,B10-NCAA
+B12-NCAA-Kansas St.,Kansas St.,B12-NCAA
+B12-NCAA-Oklahoma St.,Oklahoma St.,B12-NCAA
+BE-NCAA-Creighton,Creighton,BE-NCAA
+BE-NCAA-Marquette,Marquette,BE-NCAA
+BE-NCAA-Seton Hall,Seton Hall,BE-NCAA
+BSky-NCAA-North Dakota,North Dakota,BSky-NCAA
+BSth-NCAA-Winthrop,Winthrop,BSth-NCAA
+BW-NCAA-UC Davis,UC Davis,BW-NCAA
+CAA-NCAA-UNC Wilmington,UNC Wilmington,CAA-NCAA
+Horz-NCAA-Northern Kentucky,Northern Kentucky,Horz-NCAA
+Ivy-NCAA-Princeton,Princeton,Ivy-NCAA
+MAAC-NCAA-Iona,Iona,MAAC-NCAA
+MAC-NCAA-Kent St.,Kent St.,MAC-NCAA
+MWC-NCAA-Nevada,Nevada,MWC-NCAA
+NEC-NCAA-Mount St. Mary's,Mount St. Mary's,NEC-NCAA
+OVC-NCAA-Jacksonville St.,Jacksonville St.,OVC-NCAA
+Pat-NCAA-Bucknell,Bucknell,Pat-NCAA
+SB-NCAA-Troy,Troy,SB-NCAA
+SC-NCAA-East Tennessee St.,East Tennessee St.,SC-NCAA
+SEC-NCAA-Vanderbilt,Vanderbilt,SEC-NCAA
+Sum-NCAA-South Dakota St.,South Dakota St.,Sum-NCAA
+SWAC-NCAA-Texas Southern,Texas Southern,SWAC-NCAA
+WAC-NCAA-New Mexico St.,New Mexico St.,WAC-NCAA
+ACC-NCAA-Wake Forest,Wake Forest,ACC-NCAA
+BE-NCAA-Providence,Providence,BE-NCAA
+MEAC-NCAA-North Carolina Central,North Carolina Central,MEAC-NCAA
+Slnd-NCAA-New Orleans,New Orleans,Slnd-NCAA
+B10-NCAA-Michigan,Michigan,B10-NCAA
+B10-NCAA-Purdue,Purdue,B10-NCAA
+B10-NCAA-Wisconsin,Wisconsin,B10-NCAA
+B12-NCAA-Baylor,Baylor,B12-NCAA
+B12-NCAA-West Virginia,West Virginia,B12-NCAA
+BE-NCAA-Butler,Butler,BE-NCAA
+P12-NCAA-Arizona,Arizona,P12-NCAA
+P12-NCAA-UCLA,UCLA,P12-NCAA
+P12-NCAA-S16,UCLA-S16,P12-NCAA-UCLA
+B12-NCAA-S16,Baylor-S16,B12-NCAA-Baylor
+B10-NCAA-S16,Michigan-S16,B10-NCAA-Michigan
+B10-NCAA-S16,Purdue-S16,B10-NCAA-Purdue
+B10-NCAA-S16,Wisconsin-S16,B10-NCAA-Wisconsin
+P12-NCAA-S16,Arizona-S16,P12-NCAA-Arizona
+BE-NCAA-S16,Butler-S16,BE-NCAA-Butler
+B12-NCAA-S16,West Virginia-S16,B12-NCAA-West Virginia
+ACC-NCAA-R68,Wake Forest-R68,ACC-NCAA-Wake Forest
+BE-NCAA-R68,Providence-R68,BE-NCAA-Providence
+MEAC-NCAA-R68,North Carolina Central-R68,MEAC-NCAA-North Carolina Central
+Slnd-NCAA-R68,New Orleans-R68,Slnd-NCAA-New Orleans
+Amer-NCAA-R64,SMU-R64,Amer-NCAA-SMU
+B12-NCAA-R64,Kansas St.-R64,B12-NCAA-Kansas St.
+BW-NCAA-R64,UC Davis-R64,BW-NCAA-UC Davis
+BSth-NCAA-R64,Winthrop-R64,BSth-NCAA-Winthrop
+BSky-NCAA-R64,North Dakota-R64,BSky-NCAA-North Dakota
+BE-NCAA-R64,Seton Hall-R64,BE-NCAA-Seton Hall
+BE-NCAA-R64,Marquette-R64,BE-NCAA-Marquette
+BE-NCAA-R64,Creighton-R64,BE-NCAA-Creighton
+B12-NCAA-R64,Oklahoma St.-R64,B12-NCAA-Oklahoma St.
+B10-NCAA-R64,Minnesota-R64,B10-NCAA-Minnesota
+AE-NCAA-R64,Vermont-R64,AE-NCAA-Vermont
+B10-NCAA-R64,Maryland-R64,B10-NCAA-Maryland
+ASun-NCAA-R64,Florida Gulf Coast-R64,ASun-NCAA-Florida Gulf Coast
+A10-NCAA-R64,Dayton-R64,A10-NCAA-Dayton
+A10-NCAA-R64,VCU-R64,A10-NCAA-VCU
+ACC-NCAA-R64,Miami FL-R64,ACC-NCAA-Miami FL
+Ivy-NCAA-R64,Princeton-R64,Ivy-NCAA-Princeton
+ACC-NCAA-R64,Virginia Tech-R64,ACC-NCAA-Virginia Tech
+Horz-NCAA-R64,Northern Kentucky-R64,Horz-NCAA-Northern Kentucky
+CAA-NCAA-R64,UNC Wilmington-R64,CAA-NCAA-UNC Wilmington
+MAAC-NCAA-R64,Iona-R64,MAAC-NCAA-Iona
+SB-NCAA-R64,Troy-R64,SB-NCAA-Troy
+WAC-NCAA-R64,New Mexico St.-R64,WAC-NCAA-New Mexico St.
+Sum-NCAA-R64,South Dakota St.-R64,Sum-NCAA-South Dakota St.
+SEC-NCAA-R64,Vanderbilt-R64,SEC-NCAA-Vanderbilt
+SC-NCAA-R64,East Tennessee St.-R64,SC-NCAA-East Tennessee St.
+SWAC-NCAA-R64,Texas Southern-R64,SWAC-NCAA-Texas Southern
+Pat-NCAA-R64,Bucknell-R64,Pat-NCAA-Bucknell
+OVC-NCAA-R64,Jacksonville St.-R64,OVC-NCAA-Jacksonville St.
+NEC-NCAA-R64,Mount St. Mary's-R64,NEC-NCAA-Mount St. Mary's
+MWC-NCAA-R64,Nevada-R64,MWC-NCAA-Nevada
+MAC-NCAA-R64,Kent St.-R64,MAC-NCAA-Kent St.
+CUSA-NCAA-R32,Middle Tennessee-R32,CUSA-NCAA-Middle Tennessee
+ACC-NCAA-R32,Duke-R32,ACC-NCAA-Duke
+ACC-NCAA-R32,Florida St.-R32,ACC-NCAA-Florida St.
+ACC-NCAA-R32,Louisville-R32,ACC-NCAA-Louisville
+ACC-NCAA-R32,Notre Dame-R32,ACC-NCAA-Notre Dame
+ACC-NCAA-R32,Virginia-R32,ACC-NCAA-Virginia
+Amer-NCAA-R32,Cincinnati-R32,Amer-NCAA-Cincinnati
+B10-NCAA-R32,Michigan St.-R32,B10-NCAA-Michigan St.
+B10-NCAA-R32,Northwestern-R32,B10-NCAA-Northwestern
+B12-NCAA-R32,Iowa St.-R32,B12-NCAA-Iowa St.
+BE-NCAA-R32,Villanova-R32,BE-NCAA-Villanova
+A10-NCAA-R32,Rhode Island-R32,A10-NCAA-Rhode Island
+MVC-NCAA-R32,Wichita St.-R32,MVC-NCAA-Wichita St.
+P12-NCAA-R32,USC-R32,P12-NCAA-USC
+SEC-NCAA-R32,Arkansas-R32,SEC-NCAA-Arkansas
+WCC-NCAA-R32,Saint Mary's-R32,WCC-NCAA-Saint Mary's
+P12-NCAA-F4,Oregon-F4,P12-NCAA-Oregon
+SEC-NCAA-F4,South Carolina-F4,SEC-NCAA-South Carolina
+B12-NCAA-E8,Kansas-E8,B12-NCAA-Kansas
+SEC-NCAA-E8,Florida-E8,SEC-NCAA-Florida
+SEC-NCAA-E8,Kentucky-E8,SEC-NCAA-Kentucky
+BE-NCAA-E8,Xavier-E8,BE-NCAA-Xavier
+ACC-NCAA-Champions,North Carolina-Champions,ACC-NCAA-North Carolina
+WCC-NCAA-2ND,Gonzaga-2ND,WCC-NCAA-Gonzaga
