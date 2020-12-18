@@ -136,7 +136,9 @@ function makeDrops() {
             .attr("id", "dropdown")
             .on("change", function (d) {
                 selection = document.getElementById("dropdown");
-                d3.selectAll("svg > *").remove();
+                d3.selectAll("rect").remove()
+                 d3.selectAll("yAxis").remove()
+                  d3.selectAll(".tick").remove()
                 drillLevel = 1;
                 buildCharts(selection.value)
             });
