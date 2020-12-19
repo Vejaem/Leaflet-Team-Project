@@ -97,12 +97,13 @@ function buildCharts(queryTeam) {
 
         // make bars
         // originally I appended to svg.select all. Later, I appended to "g.selectAll" so that chart could be translated
-        g.selectAll('rect').data(currentQuery)
-            .enter().append('rect')
+        g.selectAll('circle').data(currentQuery)
+            .enter().append('circle')
 
-            .attr('x', d => xScale(xValue(d)))
-            .attr('y', d => yScale(yValue(d)))
-
+            .attr('cx', d => xScale(xValue(d)))
+            .attr('cy', d => yScale(yValue(d)))
+            .attr('r', 20)
+            // .attr(transform, translate(295, 0))
             .attr('height', d => innerHeight - yScale(yValue(d)))
             .attr('width', xScale.bandwidth())
             .attr('fill', 'red')
@@ -136,7 +137,7 @@ function makeDrops() {
             .attr("id", "dropdown")
             .on("change", function (d) {
                 selection = document.getElementById("dropdown");
-                d3.selectAll("rect").remove()
+                d3.selectAll("circle").remove()
                  d3.selectAll("yAxis").remove()
                   d3.selectAll(".tick").remove()
                 drillLevel = 1;
@@ -160,9 +161,9 @@ makeDrops();
 
 var toolTip = d3.tip()
     .attr("class", "tooltip")
-    .offset([100, 0])
+    .offset([150, 0])
     .html(function (d) {
-        return (`<p style="color:white"; align = "center"; style="font-size:10px">
+        return (`<p style="color:black"; align = "center"; style="font-size:10px">
             ${(d.CONF)}<br>
             Games Played: ${d.G}<br>
             Wins: ${d.W}<br>
