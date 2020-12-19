@@ -64,12 +64,12 @@ d3.json("cbb_2019.json").then((cbbData) => {
   // make a plotly chart
   var data = [
     {
-      x: teams,
+      x: confs,
       y: wins,
       text: confs,
       type: 'bar'
     }
   ];
 
-  Plotly.newPlot('myDiv', data);
+  Plotly.newPlot('jDiv', data);
 });    
