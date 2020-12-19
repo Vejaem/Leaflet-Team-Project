@@ -71,5 +71,8 @@ d3.json("cbb_2019.json").then((cbbData) => {
     }
   ];
 
-  Plotly.newPlot('jDiv', data);
+  var barlayout = {
+    title: "Total Games Won per Conference"
+  }
+  Plotly.newPlot('jDiv', data, barlayout);
 });    
