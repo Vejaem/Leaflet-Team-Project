@@ -102,8 +102,10 @@ function buildCharts(queryTeam) {
 
             .attr('cx', d => xScale(xValue(d)))
             .attr('cy', d => yScale(yValue(d)))
+            .attr("transform", "translate(70,0)") 
             .attr('r', 20)
-            // .attr(transform, translate(295, 0))
+            // .attr('dx', 10000) //'transform, translate(1000, 0)')
+            // .attr("transform", "translate(1000,1000)")
             .attr('height', d => innerHeight - yScale(yValue(d)))
             .attr('width', xScale.bandwidth())
             .attr('fill', 'red')
