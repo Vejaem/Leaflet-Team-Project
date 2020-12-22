@@ -164,6 +164,7 @@ var toolTip = d3.tip()
     .offset([200, 0])
     .html(function (d) {
         return (`<p style="color:black"; align = "center"; style="font-size:10px">
+            <br>
             ${(d.CONF)}<br>
             Games Played: ${d.G}<br>
             Wins: ${d.W}<br>
