@@ -125,7 +125,7 @@ function buildCharts(queryTeam) {
 
 ////////////////////////////////////////////////////////////////////////////
 function makeDrops() {
-    d3.csv("../cbb.csv").then(function (data) {
+    d3.csv("./cbb.csv").then(function (data) {
 
         queryItem2 = "2016";
         var currentQuery2 = data.filter(function (team) {
