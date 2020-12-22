@@ -161,7 +161,7 @@ makeDrops();
 
 var toolTip = d3.tip()
     .attr("class", "tooltip")
-    .offset([150, 0])
+    .offset([175, 0])
     .html(function (d) {
         return (`<p style="color:black"; align = "center"; style="font-size:10px">
             ${(d.CONF)}<br>
