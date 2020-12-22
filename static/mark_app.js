@@ -37,7 +37,7 @@ function init() {
 //////////////////////////////////////////////////////////////////////////////////////////////
 // a function to make the plot 
 function buildCharts(queryTeam) {
-    d3.csv("../cbb.csv").then(function (data) {
+    d3.csv("./cbb.csv").then(function (data) {
         var currentQuery = data.filter(function (team) {
             return team.TEAM == queryTeam;
         })
